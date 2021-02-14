@@ -21,27 +21,27 @@ Work experience
   * Teesside University, UK
   * Duties included: Tutoring student in Power BI lab
   
-*  Sep 2018 - July 2019: Research Assistant
+* Sep 2018 - July 2019: Research Assistant
   * National Central University, Taiwan
   * Duties included: Researching in Marketing topic
   
-*  Jan 2018 - July 2018: Account to Report Supervisor
+* Jan 2018 - July 2018: Account to Report Supervisor
   * Anheuser-Busch Inbev, Vietnam
   * Duties included:
   
-*  May 2017 - Jan 2018: Accountant
+* May 2017 - Jan 2018: Accountant
   * ASWIG group, Vietnam
   * Duties included:
   
-*  Dec 2014 - May 2016: Accountant
+* Dec 2014 - May 2016: Accountant
   * Tao Dan Decor Limited, Vietnam
   * Duties included:
 
-*  Jul 2013 - Nov 2014: Audit Associate
+* Jul 2013 - Nov 2014: Audit Associate
   * EY, Vietnam
   * Duties included:
   
-*  Dec 2012 - Mar 2013: Audit Intern
+* Dec 2012 - Mar 2013: Audit Intern
   * EY, Vietnam
   * Duties included:
     
