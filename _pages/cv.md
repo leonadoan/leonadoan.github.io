@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc in Applied Data Science, Teesside University, 2020 - 2022
+* MBA in Small and Medium Sized Enterprises Development, Leipzig University, 2014 - 2017
+* BA in Accouting, University of Economics Ho Chi Minh City, 2009 - 2013
 
 Work experience
 ======
